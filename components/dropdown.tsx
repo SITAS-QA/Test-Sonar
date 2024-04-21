@@ -12,6 +12,7 @@ interface DropdownProps {
   toggleDropdown: (isOpen: boolean) => void;
 }
 
+
 const Dropdown = ({
   materialIds,
   materials,
